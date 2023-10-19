@@ -21,12 +21,15 @@
 
 Histogram of type of Airbnb properties based on the descriptions ('Summary') give in listing.
 
-![image](https://github.com/lyndsayroach/Airbnb-Web-Scrapping/assets/17256163/3736c6ba-e574-46e3-ab5f-8c9973f69b54)
+![Airbnb_Descriptions_Histogram](https://github.com/lyndsayroach/Airbnb-Web-Scrapping/assets/17256163/3b0d152e-ed8b-449c-91f4-30ebffbd64c6)
+
 
 Frequency of top 30 most common amenities featured on the main page of the listing.
 
-![image](https://github.com/lyndsayroach/Airbnb-Web-Scrapping/assets/17256163/cb6bc052-a822-4e79-b007-fec421259cb1)
+![Airbnb_Amenities_Top30Words](https://github.com/lyndsayroach/Airbnb-Web-Scrapping/assets/17256163/da60765d-c671-4256-a7d1-3f06759b5f1a)
+
 
 Frequency of top 30 most common words used in the title ('Title') of the listing.
 
-![image](https://github.com/lyndsayroach/Airbnb-Web-Scrapping/assets/17256163/daecfb54-d46e-4892-94cf-6b415c6efd31)
+![Airbnb_Title_Top30Words](https://github.com/lyndsayroach/Airbnb-Web-Scrapping/assets/17256163/57bdc4c9-3856-437a-af07-15283f06616b)
+
