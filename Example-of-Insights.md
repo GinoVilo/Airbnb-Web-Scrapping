@@ -1,4 +1,4 @@
-## Examples of Summary Statistics
+## Example of Summary Statistics
 
 | **Variable**           | **Mean** |
 |------------------------|----------|
@@ -17,7 +17,7 @@
 | Value                 | 4.73     |
 
 
-## Examples of Visualizations
+## Example of Visualizations
 
 Histogram of type of Airbnb properties based on the descriptions ('Summary') give in listing.
 
