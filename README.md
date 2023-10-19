@@ -1,6 +1,6 @@
 # Airbnb Web Scrapping
 Scrapping property information from Airbnb listings from downtown Toronto, specifically for any given week and a booking of 2 guests. The scraped data is then stored in an Excel (.csv) 
-file for further analysis or reference.
+file for further analysis or reference. Examples of insights derived from this dataset are found in the file "Example-Insights.md".
 
 ## Variables
 
